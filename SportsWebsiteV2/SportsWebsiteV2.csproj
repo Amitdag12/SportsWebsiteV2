@@ -67,6 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Excrcises.mdf" />
+    <Content Include="App_Data\Excrcises_log.ldf" />
+    <Content Include="App_Data\Users_DB.mdf" />
+    <Content Include="App_Data\Users_DB_log.ldf" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
