@@ -76,6 +76,7 @@
   <ItemGroup>
     <Compile Include="Exercise.cs" />
     <Compile Include="ExerciseList.cs" />
+    <Compile Include="MuscleExcNumGenerator.cs" />
     <Compile Include="ProgramMaker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
