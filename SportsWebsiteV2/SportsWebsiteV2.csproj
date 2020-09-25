@@ -71,12 +71,12 @@
     <Content Include="App_Data\Excrcises_log.ldf" />
     <Content Include="App_Data\Users_DB.mdf" />
     <Content Include="App_Data\Users_DB_log.ldf" />
-    <Content Include="imGay.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exercise.cs" />
     <Compile Include="ExerciseList.cs" />
+    <Compile Include="ProgramMaker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
